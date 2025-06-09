@@ -24,7 +24,7 @@ Each model is trained using standard preprocessing (scaling, encoding, binary la
 
 ## Literature Review
 
-I have written a literature review (literature_review_Maxime_BOSSANT.pdf) to summarize the key aspects of this research domain. It covers:
+I have written a literature review (`literature_review_Maxime_BOSSANT.pdf`) to summarize the key aspects of this research domain. It covers:
 - Threats in SDN-IoT Networks
 - Defense Mechanisms and Detection Strategies
 - Deep Learning Models for Anomaly Detection
