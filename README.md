@@ -31,7 +31,7 @@ I have written a literature review (`literature_review_Maxime_BOSSANT.pdf`) to s
 
 ## Literature
 
-The `litterature/` folder contains key papers on:
+The `literature/` folder contains key papers on:
 - SDN-specific intrusion detection
 - Deep learning models in network security
 - Model extraction and adversarial attacks

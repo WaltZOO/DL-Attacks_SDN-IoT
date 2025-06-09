@@ -208,7 +208,7 @@ cython_debug/
 *.synctex.gz
 
 
-litterature/latex/
+literature/latex/
 
 
 *.pyc
