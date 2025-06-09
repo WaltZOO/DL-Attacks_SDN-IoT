@@ -212,3 +212,8 @@ literature/latex/
 
 
 *.pyc
+
+
+**/*.csv
+**/*.py
+**/*.tex
