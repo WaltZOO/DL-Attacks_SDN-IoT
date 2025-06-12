@@ -1,0 +1,14 @@
+name: SDNIOT-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy<2.0
+  - tensorflow=2.13
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - foolbox
+  - pip
+  - pip:
+      - adversarial-robustness-toolbox
