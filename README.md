@@ -15,12 +15,31 @@ Datasets are **not included** in this repo due to size. Please download them man
 
 The project currently includes:
 
-- CNN-based IDS
-- LSTM-based IDS
+- CNN
+- LSTM
 - AE-LSTM
 
 Each model is trained using standard preprocessing (scaling, encoding, binary labeling).
 
+---
+
+## Project Structure
+
+The project is organized into three main notebook categories:
+
+### 1. `notebooks/data_processing/`  
+Contains notebooks for **preprocessing** raw datasets (handling missing values, scaling, encoding, etc.).  
+Run once at the beginning per dataset.  
+Processed data is saved to `preprocessed_data/` for reuse.
+
+### 2. `notebooks/model_training/`  
+Contains the training scripts for CNN, LSTM, and AE-LSTM models.  
+Trained models are saved to the `models/` directory.
+
+### 3. `notebooks/attacks/`  
+Implementation of **adversarial attacks** (e.g., HopSkipJump, Boundary Attack) using the **Adversarial Robustness Toolbox (ART)** to evaluate model robustness.
+
+---
 
 ## Literature Review
 

@@ -220,4 +220,10 @@ literature/latex/
 *.csv#
 datasets/
 notebooks/1st_try_notebook.ipynb
-**/*.joblib
+# **/*.joblib
+
+# **/*.keras
+# **/*.pkl
+# *.keras
+# *.pkl
+# *.joblib
