@@ -4,7 +4,11 @@ This project explores **data-free adversarial attacks** on **Deep learning-based
 
 ## Datasets Used
 
-Datasets are **not included** in this repo due to size. Please download them manually from the following sources:
+Datasets are **not included** in this repo due to size. Please download them manually from this Google Drive to have the same datasets as mine (CICIOT is lighter in my version) :
+
+https://drive.google.com/drive/folders/1fIr_AWhk0C5NczuGIiSCrZBtUpDMMwPj?usp=sharing
+
+You can also find the original datasets in the following sources:
 
 - [CICIDS2017](https://www.unb.ca/cic/datasets/ids-2017.html)
 - [CICIOT2023](https://www.unb.ca/cic/datasets/iotdataset-2023.html)
