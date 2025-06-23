@@ -230,3 +230,5 @@ notebooks/1st_try_notebook.ipynb
 
 preprocessed_data/
 models/
+
+notebooks/attacks/*
