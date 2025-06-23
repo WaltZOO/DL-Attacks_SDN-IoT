@@ -40,8 +40,8 @@ Processed data is saved to `preprocessed_data/` for reuse.
 Contains the training scripts for CNN, LSTM, and AE-LSTM models.  
 Trained models are saved to the `models/` directory.
 
-### 3. `notebooks/attacks/`  
-Implementation of **adversarial attacks** (e.g., HopSkipJump, Boundary Attack) using the **Adversarial Robustness Toolbox (ART)** to evaluate model robustness.
+### 3. `notebooks/attacks/`  (not yet implemented)
+Implementation of **adversarial attacks** using the **Adversarial Robustness Toolbox (ART)** to evaluate model robustness.
 
 ---
 
