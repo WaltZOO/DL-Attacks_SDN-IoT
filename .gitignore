@@ -231,7 +231,6 @@ notebooks/1st_try_notebook.ipynb
 preprocessed_data/
 models/
 
-notebooks/attacks/*
 notebooks/data_processing/CICIOT2023_processing.ipynb
 notebooks/model_training/CICIOT2023_model.ipynb
 results/CICIOT/*
